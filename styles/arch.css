@@ -936,16 +936,16 @@ ul li a .fab {
 @media (max-width:380px) {
     
     .modern-container h2{
-        font-size: 21px;
+        font-size: 2px;
     }
     .services-heading{
-        width: 70%;
+        width: 90%;
     }
     .service button{
         font-size: 9px;
     }
     #horz h1{
-        width: 55%;
+        width: 70%;
     }
 }
 
