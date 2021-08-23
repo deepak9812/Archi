@@ -677,11 +677,11 @@ ul li a .fab {
     }
     .context {
         top: 40%;
-        left: 40%;
+        left: 36%;
     }
     
     .context h2 {
-        width: 75%;
+        width: 72%;
         font-size: 30px;
     }
     
@@ -781,29 +781,11 @@ ul li a .fab {
 
 }
 
-@media (max-width:700px){
-    nav #menu {
-        left: 18%;
-    }
-    
-    nav #menu li {
-        padding: 0px 10px;
-    }
-    .services-heading{
-        width: 52%;
-    }
-    .services-container{
-        margin-left: 5%;
-    }
-    .service button{
-        font-size: 25px;
-    }
-        #horz h1{
-        width: 30%;
-    }
-}
 
 @media (max-width:600px) {
+    #resize #menu li a {
+        font-size: 20px;
+    }
     nav video{
         top: 20%;
         left: 0%;
