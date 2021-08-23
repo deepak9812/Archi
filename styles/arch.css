@@ -934,6 +934,10 @@ ul li a .fab {
 }
 
 @media (max-width:380px) {
+    
+    .modern-container h2{
+        font-size: 21px;
+    }
     .services-heading{
         width: 70%;
     }
@@ -949,8 +953,7 @@ ul li a .fab {
 @media (max-width:330px) {
 
     .modern-container h2{
-        width: 84%;
-        font-size: 16px;
+        font-size: 17px;
     }
     .about-container h1{
         font-size: 18px;
