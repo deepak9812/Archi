@@ -782,7 +782,7 @@ ul li a .fab {
 }
 
 
-@media (max-width:600px) {
+@media (max-width: 600px) {
     #resize #menu li a {
         font-size: 20px;
     }
@@ -817,8 +817,8 @@ ul li a .fab {
     }
     .modern-container h2{
         margin-left: 5%;
-        width: 90%;
-        font-size: 2px;
+        width: 82%;
+        font-size: 22px;
     }
     .modern-right{
         padding: 2rem;
@@ -880,8 +880,8 @@ ul li a .fab {
         width: 100%;
     }
     .services-heading{
-        font-size: 3px;
-        width: 65%;
+        font-size: 26px;
+        width: 58%;
     }
     .services-container{
         margin-left: 5%;
@@ -890,8 +890,8 @@ ul li a .fab {
         font-size: 12px;
     }
     #horz h1{
-        font-size: 3px;
-        width: 45%;
+        font-size: 35px;
+        width: 48%;
     }
     .horzs{
         margin-left: 2%;
