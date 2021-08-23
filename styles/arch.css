@@ -818,7 +818,7 @@ ul li a .fab {
     .modern-container h2{
         margin-left: 5%;
         width: 90%;
-        font-size: 24px;
+        font-size: 2px;
     }
     .modern-right{
         padding: 2rem;
@@ -880,7 +880,7 @@ ul li a .fab {
         width: 100%;
     }
     .services-heading{
-        font-size: 30px;
+        font-size: 3px;
         width: 65%;
     }
     .services-container{
@@ -890,7 +890,7 @@ ul li a .fab {
         font-size: 12px;
     }
     #horz h1{
-        font-size: 35px;
+        font-size: 3px;
         width: 45%;
     }
     .horzs{
@@ -933,19 +933,19 @@ ul li a .fab {
     }
 }
 
-@media (max-width:380px) {
+@media (max-width: 380px) {
     
     .modern-container h2{
-        font-size: 2px;
+        font-size: 21px;
     }
     .services-heading{
-        width: 90%;
+        width: 70%;
     }
     .service button{
         font-size: 9px;
     }
     #horz h1{
-        width: 70%;
+        width: 55%;
     }
 }
 
