@@ -197,7 +197,6 @@ nav #menu li a {
     margin-left: 5%;
     width: 44%;
     margin-bottom: 100px;
-    border-bottom: 1px solid black;
     letter-spacing: .1rem;
     font-family: 'Shippori Mincho', serif;
 }
@@ -280,7 +279,6 @@ nav #menu li a {
     margin-bottom: 100px;
     letter-spacing: .1rem;
     font-family: 'Shippori Mincho', serif;
-    border-bottom: 1px solid black;
 }
 
 .about-containerr{
@@ -316,7 +314,6 @@ nav #menu li a {
     font-size: 50px;
     width: 29%;
     margin-bottom: 40px;
-    border-bottom: 1px solid black;
 }
 
 
@@ -372,7 +369,6 @@ nav #menu li a {
 
 #horz h1{
     font-size: 50px;
-    border-bottom: 1px solid black;
     letter-spacing: .1rem;
     margin-left: 5%;
     width: 17%;
